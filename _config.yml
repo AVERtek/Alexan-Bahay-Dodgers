@@ -1,0 +1,19 @@
+#title: AVERtek # your name photo (or website title) here
+logo1: "images/BAHAY-LOGO-leaf-green-gold.png? raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <h2><b>CELEBRATES THE WORLD CHAMPION DODGERS</h2></b>
+  <h3><a href="https://alexanbahay.com/special/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://alexanbahay.com/special/?utm_source=AVERtek&utm_medium=AR'); return false;"><b>ENTER FREE CONTEST!</h3></b></a> 
+  <br><br>
+  <b>GEAR UP:</b><a href="http://bit.ly/DodgerGearAB" onclick="getOutboundLink('http://bit.ly/DodgerGearAB'); return false;"</b><b> Dodger Fan's Here</b></a>
+  <br><br> 
+  <b>CATCH A GAME:</b><a href="https://www.mlb.com/dodgers/schedule/2021-03" onclick="getOutboundLink('https://www.mlb.com/dodgers/schedule/2021-03'); return false;"</b><b> 2021 Schedule</b></a>
+  <br><br>
+  <b>BUY TICKETS:</b><a href="https://www.mlb.com/dodgers/tickets" onclick="getOutboundLink('https://www.mlb.com/dodgers/tickets'); return false;"</b><b> Quick & Easy</b></a>
+  <br><br>
+  <b>EXPLORE AUTHENTIC LA LIVING:</b><a href="https://alexanbahay.com/gallery/video/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://alexanbahay.com/gallery/video/?utm_source=AVERtek&utm_medium=AR'); return false;"</b><b> Alexan Bahay Means Home</b></a> 
+  <br><br>
+  <b>SLIDE INTO HOME:</b><a href="https://alexanbahay.com/special/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://alexanbahay.com/special/?utm_source=AVERtek&utm_medium=AR'); return false;"</b> <b> Tour & Free Gift, Use Special Code: Dodgers</a> 
+  <br><br>
+theme: jekyll-theme-minimal
+# Google Analytics
+google_analytics: UA-000000000-0 
